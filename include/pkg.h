@@ -25,4 +25,7 @@
 #include <tar.h>
 #include <unpack.h>
 
+#include <string.h>
+#include <unistd.h>
+
 #endif
